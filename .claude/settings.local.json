@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(src/**)", "Write(src/**)",
+      "Edit(prisma/**)", "Write(prisma/**)",
+      "Edit(tests/**)", "Write(tests/**)",
+      "Edit(TRANSCRICAO.md)", "Write(TRANSCRICAO.md)"
+    ]
+  }
+}

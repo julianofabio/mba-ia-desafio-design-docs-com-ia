@@ -1,0 +1,461 @@
+{
+  "sources": {
+    "ADR-001": [
+      "[09:06] Diego",
+      "[09:08] Larissa",
+      "[09:48] Larissa"
+    ],
+    "ADR-002": [
+      "[09:10] Larissa",
+      "[09:11] Diego",
+      "[09:13] Larissa"
+    ],
+    "ADR-003": [
+      "[09:17] Larissa",
+      "[09:18] Diego",
+      "[09:48] Larissa"
+    ],
+    "ADR-004": [
+      "[09:21] Sofia",
+      "[09:22] Sofia"
+    ],
+    "ADR-005": [
+      "[09:25] Diego",
+      "[09:26] Larissa"
+    ],
+    "ADR-006": [
+      "[09:30] Larissa",
+      "[09:48] Larissa"
+    ],
+    "ADR-007": [
+      "[09:34] Bruno",
+      "[09:52] Larissa"
+    ],
+    "ADR-008": [
+      "[09:32] Larissa",
+      "[09:36] Larissa",
+      "[09:37] Sofia"
+    ],
+    "RFC-COMP-01": [
+      "[09:06] Diego",
+      "[09:34] Bruno",
+      "[09:52] Larissa"
+    ],
+    "RFC-COMP-02": [
+      "[09:10] Larissa",
+      "[09:11] Diego"
+    ],
+    "RFC-COMP-04": [
+      "[09:19] Sofia",
+      "[09:22] Sofia"
+    ],
+    "RFC-COMP-05": [
+      "[09:18] Diego"
+    ],
+    "RFC-GAR-02": [
+      "[09:24] Diego",
+      "[09:26] Larissa"
+    ],
+    "RFC-GAR-04": [
+      "[09:19] Sofia",
+      "[09:22] Sofia"
+    ],
+    "RFC-Q-08": [
+      "[09:18] Diego"
+    ],
+    "RFC-Q-09": [
+      "[09:33] Bruno"
+    ],
+    "RFC-Q-12": [
+      "[09:22] Sofia",
+      "[09:44] Diego"
+    ],
+    "RFC-RISCO-03": [
+      "prisma/schema.prisma"
+    ],
+    "FDD-FLUXO-01": [
+      "[09:06] Diego",
+      "[09:40] Bruno",
+      "[09:41] Bruno"
+    ],
+    "FDD-FLUXO-02": [
+      "[09:09] Diego",
+      "[09:12] Diego",
+      "[09:42] Diego"
+    ],
+    "FDD-FLUXO-03": [
+      "[09:15] Diego",
+      "[09:17] Diego",
+      "[09:17] Larissa"
+    ],
+    "FDD-FLUXO-04": [
+      "[09:18] Diego",
+      "[09:36] Sofia",
+      "[09:36] Larissa"
+    ],
+    "FDD-CONTRATO-08": [
+      "[09:43] Diego",
+      "[09:44] Diego",
+      "[09:44] Sofia"
+    ],
+    "FDD-ERR-01": [
+      "[09:28] Bruno"
+    ],
+    "FDD-ERR-03": [
+      "[09:29] Larissa"
+    ],
+    "FDD-ERR-04": [
+      "[09:21] Sofia",
+      "[09:29] Larissa"
+    ],
+    "FDD-ERR-05": [
+      "[09:29] Larissa"
+    ],
+    "FDD-ERR-06": [
+      "[09:29] Larissa"
+    ],
+    "FDD-ERR-09": [
+      "[09:29] Larissa",
+      "[09:42] Diego"
+    ],
+    "FDD-CA-01": [
+      "[09:33] Marcos",
+      "[09:40] Bruno",
+      "[09:52] Larissa"
+    ],
+    "FDD-CA-02": [
+      "[09:34] Bruno"
+    ],
+    "FDD-CA-03": [
+      "[09:40] Bruno"
+    ],
+    "FDD-CA-04": [
+      "[09:08] Diego",
+      "[09:34] Marcos"
+    ],
+    "FDD-CA-05": [
+      "[09:22] Sofia",
+      "[09:44] Diego",
+      "[09:44] Sofia"
+    ],
+    "FDD-CA-06": [
+      "[09:42] Diego",
+      "[09:17] Larissa"
+    ],
+    "FDD-CA-07": [
+      "[09:15] Diego",
+      "[09:18] Diego"
+    ],
+    "FDD-CA-08": [
+      "[09:23] Sofia",
+      "[09:24] Larissa"
+    ],
+    "FDD-CA-09": [
+      "[09:36] Sofia"
+    ],
+    "FDD-CA-10": [
+      "[09:18] Diego",
+      "[09:36] Sofia"
+    ],
+    "FDD-CA-11": [
+      "[09:18] Diego"
+    ],
+    "FDD-CA-12": [
+      "[09:23] Sofia"
+    ],
+    "FDD-CA-13": [
+      "[09:31] Marcos"
+    ],
+    "FDD-CA-14": [
+      "[09:21] Sofia"
+    ],
+    "FDD-CA-15": [
+      "[09:25] Diego"
+    ],
+    "FDD-RISCO-02": [
+      "[09:22] Sofia"
+    ],
+    "FDD-RISCO-03": [
+      "[09:21] Bruno"
+    ],
+    "FDD-RISCO-05": [
+      "[09:08] Diego",
+      "[09:34] Marcos"
+    ],
+    "FDD-RISCO-06": [
+      "docker-compose.yml"
+    ],
+    "FDD-RISCO-07": [
+      "[09:21] Sofia"
+    ],
+    "FDD-LAC-01": [
+      "[09:18] Diego"
+    ],
+    "FDD-LAC-02": [
+      "[09:33] Bruno"
+    ],
+    "FDD-LAC-03": [
+      "[09:18] Diego"
+    ],
+    "PRD-ESC-01": [
+      "[09:00] Marcos"
+    ],
+    "PRD-ESC-02": [
+      "[09:31] Marcos",
+      "[09:33] Bruno",
+      "[09:21] Sofia"
+    ],
+    "PRD-ESC-03": [
+      "[09:22] Sofia",
+      "[09:25] Diego"
+    ],
+    "PRD-ESC-04": [
+      "[09:15] Diego",
+      "[09:18] Diego"
+    ],
+    "PRD-ESC-05": [
+      "[09:34] Marcos"
+    ],
+    "PRD-ESC-06": [
+      "[09:26] Marcos",
+      "[09:40] Marcos"
+    ],
+    "PRD-DEC-01": [
+      "[09:06] Diego",
+      "[09:40] Bruno"
+    ],
+    "PRD-DEC-02": [
+      "[09:10] Larissa",
+      "[09:11] Diego"
+    ],
+    "PRD-DEC-03": [
+      "[09:17] Diego",
+      "[09:18] Diego"
+    ],
+    "PRD-DEC-04": [
+      "[09:22] Sofia"
+    ],
+    "PRD-DEC-05": [
+      "[09:25] Diego",
+      "[09:26] Larissa"
+    ],
+    "PRD-DEC-06": [
+      "[09:30] Larissa"
+    ],
+    "PRD-DEC-07": [
+      "[09:34] Bruno",
+      "[09:52] Larissa"
+    ],
+    "PRD-DEC-08": [
+      "[09:32] Larissa",
+      "[09:37] Sofia"
+    ],
+    "PRD-DEP-06": [
+      "[09:18] Diego",
+      "[09:33] Bruno"
+    ],
+    "PRD-RISCO-02": [
+      "prisma/schema.prisma"
+    ],
+    "PRD-RISCO-03": [
+      "src/modules/auth/auth.routes.ts",
+      "src/modules/auth/auth.schemas.ts"
+    ],
+    "PRD-RISCO-05": [
+      "[09:02] Marcos",
+      "[09:42] Diego"
+    ],
+    "PRD-CA-01": [
+      "[09:02] Marcos",
+      "[09:31] Marcos"
+    ],
+    "PRD-CA-02": [
+      "[09:34] Bruno"
+    ],
+    "PRD-CA-03": [
+      "[09:22] Sofia",
+      "[09:25] Diego"
+    ],
+    "PRD-CA-04": [
+      "[09:23] Sofia"
+    ],
+    "PRD-CA-05": [
+      "[09:16] Diego",
+      "[09:17] Larissa"
+    ],
+    "PRD-CA-06": [
+      "[09:18] Diego",
+      "[09:36] Sofia"
+    ],
+    "PRD-CA-07": [
+      "[09:21] Sofia"
+    ],
+    "PRD-CA-08": [
+      "[09:34] Marcos"
+    ],
+    "PRD-CA-09": [
+      "[09:04] Bruno"
+    ],
+    "PRD-CA-10": [
+      "[09:26] Marcos",
+      "[09:40] Marcos"
+    ],
+    "FDD-DEP-02": [
+      "package.json"
+    ],
+    "RFC-COMP-03": [
+      "[09:23] Sofia",
+      "[09:15] Diego",
+      "[09:25] Diego"
+    ],
+    "RFC-COMP-06": [
+      "[09:31] Marcos",
+      "[09:34] Marcos",
+      "[09:18] Diego"
+    ],
+    "FDD-CA-16": [
+      "[09:15] Diego"
+    ]
+  },
+  "infs": {
+    "FDD-FLUXO-01": [
+      "INF-04",
+      "INF-14",
+      "INF-25",
+      "INF-31"
+    ],
+    "FDD-FLUXO-02": [
+      "INF-02",
+      "INF-13",
+      "INF-14",
+      "INF-15",
+      "INF-16",
+      "INF-18",
+      "INF-26",
+      "INF-33"
+    ],
+    "FDD-FLUXO-03": [
+      "INF-01",
+      "INF-05",
+      "INF-06",
+      "INF-13",
+      "INF-14"
+    ],
+    "FDD-FLUXO-04": [
+      "INF-02",
+      "INF-06",
+      "INF-12",
+      "INF-29"
+    ],
+    "FDD-CONTRATO-08": [
+      "INF-03",
+      "INF-13",
+      "INF-21"
+    ],
+    "FDD-ERR-03": [
+      "INF-30"
+    ],
+    "FDD-ERR-04": [
+      "INF-23",
+      "INF-30"
+    ],
+    "FDD-ERR-05": [
+      "INF-30"
+    ],
+    "FDD-ERR-06": [
+      "INF-29",
+      "INF-30"
+    ],
+    "FDD-ERR-07": [
+      "INF-02",
+      "INF-30"
+    ],
+    "FDD-ERR-08": [
+      "INF-30"
+    ],
+    "FDD-ERR-09": [
+      "INF-13",
+      "INF-30"
+    ],
+    "FDD-CA-04": [
+      "INF-13",
+      "INF-15"
+    ],
+    "FDD-CA-06": [
+      "INF-14",
+      "INF-30"
+    ],
+    "FDD-CA-07": [
+      "INF-01",
+      "INF-06"
+    ],
+    "FDD-CA-08": [
+      "INF-02",
+      "INF-30"
+    ],
+    "FDD-CA-10": [
+      "INF-12",
+      "INF-29"
+    ],
+    "FDD-CA-11": [
+      "INF-29",
+      "INF-30"
+    ],
+    "FDD-CA-14": [
+      "INF-03"
+    ],
+    "FDD-CA-15": [
+      "INF-16"
+    ],
+    "FDD-RISCO-05": [
+      "INF-15"
+    ],
+    "FDD-RISCO-07": [
+      "INF-23"
+    ],
+    "PRD-RISCO-01": [
+      "INF-37"
+    ],
+    "PRD-RISCO-02": [
+      "INF-37"
+    ],
+    "PRD-RISCO-03": [
+      "INF-37"
+    ],
+    "PRD-RISCO-04": [
+      "INF-37"
+    ],
+    "PRD-RISCO-05": [
+      "INF-37"
+    ],
+    "PRD-RISCO-06": [
+      "INF-37"
+    ],
+    "PRD-RISCO-07": [
+      "INF-37"
+    ],
+    "PRD-CA-05": [
+      "INF-01"
+    ],
+    "FDD-CA-16": [
+      "INF-33"
+    ]
+  },
+  "unsourced": {
+    "RFC-Q-11": "SSRF não foi citado na reunião nem há tratamento no código; levantado na elaboração para a revisão da Sofia.",
+    "FDD-LAC-04": "Criptografia em repouso e SSRF não foram citados na reunião; levantados na elaboração para a revisão da Sofia.",
+    "RFC-Q-10": "Criptografia em repouso não foi citada na reunião; levantada na elaboração."
+  },
+  "text": {
+    "FDD-INT-08": "Novo script `worker`, no molde de `start`; `tsconfig.build.json` já inclui `src/**/*.ts`",
+    "RFC-RISCO-03": "Sem isolamento entre clientes: `User` não tem vínculo com `Customer`",
+    "FDD-RISCO-01": "Efeito de RFC-RISCO-01: cada lote de 10 eventos para endpoints sem resposta bloqueia o worker por até 100s, e lotes seguidos somam esse atraso",
+    "ADR-006-D-01": "Reuso máximo do que já existe, com webhook sendo \"módulo igual aos outros\"",
+    "FDD-RISCO-08": "Se a devolução a `PENDING` falhar, a linha fica em `PROCESSING` até o próximo início do worker, fora de `webhook_outbox_pending`"
+  },
+  "infsOnly": {
+    "FDD-RISCO-03": [
+      "INF-42"
+    ]
+  }
+}
